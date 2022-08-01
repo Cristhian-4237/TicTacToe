@@ -41,7 +41,7 @@ class TicTacToeUtils {
     let players = [];
     if (playerTypes.length == 2) {
       initialIndex = Math.round(Math.random());
-
+//commit 6
       players = [
         {
           marker: tictactoeConstants._playerMarks[initialIndex],
