@@ -1,6 +1,7 @@
 var tictactoeUtils = require('../src/TicTacToeUtils');
 //comment1
 //comment2
+//This comment is added for feature/addLinterTool
 var test = 1;
 var assert = require('assert');
 describe("the function", function () {
