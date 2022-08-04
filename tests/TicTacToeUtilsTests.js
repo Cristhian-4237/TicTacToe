@@ -2,6 +2,9 @@ var tictactoeUtils = require('../src/TicTacToeUtils');
 //comment1
 //comment2
 //This comment is added for feature/addLinterTool
+//this commit is in order to test lineal changes
+//this is the feature/setupPlayersUnitTests branch
+
 var test = 1;
 var assert = require('assert');
 describe("the function", function () {
@@ -30,7 +33,7 @@ describe("the function", function () {
 
   });
 });
-//Comment 3
+
 var assert = require('assert');
 describe("compare tictactoe board size", function () {
   it("works", function () {
